@@ -1,4 +1,5 @@
 -  Hi, I’m @NouraAlSaeed
+-  Computer Science Student at Imam Abdulrhman bin Faisal University
 -  I’m interested in CIS
 -  I’m currently learning Java
 - 📫 How to reach me "X: @NouraSua"
